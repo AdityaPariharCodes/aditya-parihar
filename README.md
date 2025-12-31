@@ -10,6 +10,6 @@ Currently learning:
 - Basic Machine Learning Concepts
 - Anaconda & Environment Setup
 
- Goal for 2025: Build solid projects & become job-ready in Data Science
+ Goal for 2026: Build solid projects & become job-ready in Data Science
 
  This GitHub will show my journey from beginner → professional
