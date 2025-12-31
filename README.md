@@ -1,4 +1,4 @@
-# aditya-parihar
+# Aditya Parihar
  
 #  Hi, I'm Aditya Parihar
 
